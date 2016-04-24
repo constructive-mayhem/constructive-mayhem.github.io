@@ -48,6 +48,14 @@
 
 
 
+
+
+#header1-38 H1 {
+  font-family: 'Open Sans', sans-serif;
+}
+#header1-38 P {
+  font-family: 'Open Sans', sans-serif;
+}
 #features1-33 .mbr-section__col .mbr-header__text {
   font-family: 'Open Sans', sans-serif;
   color: #ffffff;
@@ -87,4 +95,50 @@
   color: #ffffff;
   font-family: 'Open Sans', sans-serif;
   text-align: center;
+}
+
+
+
+
+
+
+
+#menu-35 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-35.mbr-navbar--stuck .mbr-navbar__section {
+  background: #41a85f;
+}
+#menu-35 .mbr-navbar__section {
+  background: #41a85f;
+}
+#menu-35 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-35 .mbr-brand__name a {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 11px;
+}
+#menu-35 .mbr-navbar__items a {
+  font-family: 'Open Sans', sans-serif;
+}
+#footer1-37 P {
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+#header4-39 P {
+  font-family: 'Open Sans', sans-serif;
+}
+#header4-39 H1 {
+  font-family: 'Open Sans', sans-serif;
+}
+#form1-40 .mbr-header__text {
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+}
+#social-buttons2-36 .mbr-header__text {
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+  text-align: right;
 }
